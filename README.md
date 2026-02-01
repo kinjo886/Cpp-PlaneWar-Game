@@ -77,6 +77,6 @@ git clone [https://github.com/kinjo886/Cpp-PlaneWar-Game.git](https://github.com
 
  - Email: 23jwu2@stu.edu.cn
 
- - More Projects: [访问我的简历主页][https://github.com/kinjo886/JIANLI_CV]
+ - More Projects: [访问我的简历主页](https://github.com/kinjo886/JIANLI_CV)
 
 感谢您的观看！如果觉得项目不错，欢迎点一个 Star ⭐️
