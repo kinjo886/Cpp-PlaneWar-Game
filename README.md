@@ -11,7 +11,7 @@
 
 ## 🎮 游戏演示 (Demo)
 
-<!-- 💡 提示：请运行你的游戏，截图并保存。在 GitHub 编辑框里，直接把图片拖到这里，它会自动生成链接 -->
+<img width="602" height="948" alt="image" src="https://github.com/user-attachments/assets/8de6e024-332b-449a-92c4-580aa5bbe88b" />
 
 (游戏运行画面：展示了玩家射击、敌机生成及得分界面)
 
